@@ -1,5 +1,5 @@
 # Guest_Blog_App-Django
-![image](https://user-images.githubusercontent.com/78355845/112525524-fa75d780-8dc6-11eb-911b-9b480ad67f35.png)
+![image](https://user-images.githubusercontent.com/78355845/112525751-3872fb80-8dc7-11eb-8e48-4fe6e87be552.png)
 
 ![image](https://user-images.githubusercontent.com/78355845/112525120-9226f600-8dc6-11eb-834f-3d77e287f0e8.png)
 
