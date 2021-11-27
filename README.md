@@ -2,7 +2,6 @@
 
 ![112529120-efbd4180-8dca-11eb-8f69-6c81f9c37de6](https://user-images.githubusercontent.com/78355845/143681554-ba7712f1-a4ae-485e-9610-ace782960bd7.png)
 
-![image](https://user-images.githubusercontent.com/78355845/112529120-efbd4180-8dca-11eb-8f69-6c81f9c37de6.png)
 
 ![image](https://user-images.githubusercontent.com/78355845/112529193-02d01180-8dcb-11eb-8e6d-60f19225840e.png)
 
